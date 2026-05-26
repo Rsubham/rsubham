@@ -6,7 +6,7 @@
 
 Building practical and visually polished web applications through freelance and personal projects.
 
-[Portfolio](https://rsubham.github.io) • [LinkedIn](https://linkedin.com/in/rsubham) • [GitHub](https://github.com/Rsubham)
+[Portfolio](https://rsubham.github.io) • [LinkedIn](https://linkedin.com/in/rsubham)
 
 </div>
 
